@@ -1,2 +1,2 @@
 # site
-antiluma.org website
+antiluma.org
